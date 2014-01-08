@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lfm status="ok">
+<album>
+    <name>Name</name>
+    <artist>Artist</artist>
+    <mbid>mbid-1</mbid>
+    <image size="small">small-url</image>
+    <image size="mega">mega-url</image>
+</album>
+</lfm>

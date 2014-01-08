@@ -1,0 +1,4 @@
+# Your LAST FM API Key: used in making requests to fetch content from LastFM.
+# Be sure to only use this code and your API key in ways that are consistent
+# Last FM's terms of use.
+api-key:
